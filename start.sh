@@ -37,4 +37,4 @@ $JAVA_CMD -Dfile.encoding=UTF-8 \
     --add-opens java.base/java.io=ALL-UNNAMED \
     --add-opens java.base/java.net=ALL-UNNAMED \
     -cp $JAR_NAME:./libs/* \
-    cn.nukkit.Nukkit
+    cn.nukkit.PowerNukkitX
